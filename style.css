@@ -1,0 +1,647 @@
+
+
+html {
+  background: url('seedwebbg.jpeg') no-repeat center top;
+  background-size: cover;
+  background-attachment: scroll;
+  font-family: silkscreen;
+}
+
+#homecontainer {
+  width: 1400px;
+  height: 10000px;
+}
+
+#homelogo img {
+  width: 22em;
+  float: left;
+  position: relative;
+  top: -50px;
+  left: -50px;
+}
+
+#left-nav-buttons {
+  margin-top: 100px;
+  font-size: 1em;
+  font-family: silkscreen;
+  text-align: right;
+  float: center;
+  position: relative;
+  left: 0px;
+  top: -20px;
+}
+
+#left-nav-buttons img {
+	position: relative;
+	top: 10px;
+}
+
+
+.nav-button {
+  color: white;
+  margin-left: 25px;
+}
+
+#content {
+  margin-top: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 10px;
+  position: relative;
+  top: -200px;
+}
+
+#content #marketing-content {
+  margin-top: 20px;
+  text-align: center;
+  color: white;
+  font-style: sans-serif;
+}
+
+
+#line-1 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+
+#buttons {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.button {
+	
+  background-color: black;
+  color: white;
+  padding: 10px 14px 10px 14px;
+  max-width: 30px;
+  border: 1px solid transparent;
+}
+
+.button a {
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+#buttons a {
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+.button:hover {
+  border: 1px solid white;
+}
+
+#whatisseed {
+	position: relative;
+	top: 200px;
+	width: 70%;
+
+}
+
+.roadmapscroll {
+    width: 100% 800px;
+    height: 100% 800px;
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    white-space: nowrap;
+    position: relative;
+    top: 300px;
+}
+
+.roadmap {
+	width: 150% 800px;
+    height: 150% 800px;
+    flex: 0 0 auto;
+  	display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+
+#careers {
+	position: relative;
+	top: 350px;
+	text-align: left;
+}
+
+
+#discord {
+	position: relative;
+	top: 2600px;
+	color: violet;
+	float: left;
+	text-align: left;
+	margin-right: 400px;
+}
+
+
+#seedprograms {
+	position: relative;
+	top: 800px;
+	color: black;
+	text-align: center;
+	float: center;
+}
+
+#button2 {
+	color: lightblue;
+	background-color: transparent;
+	font-family: silkscreen;
+	size: 2em;
+}
+
+#button2 a {
+	text-decoration: none;
+}
+
+#button2 a:hover {
+	text-decoration: underline;
+}
+
+#button2 a:visited {
+	color: lightblue;
+	text-decoration: none;
+}
+
+#mission {
+	position: relative;
+	top: 2900px;
+	text-align: left;
+	float: left;
+	color: white;
+}
+
+
+
+#buttons3 {
+  text-align: center;
+  margin-top: 40px;
+  position: relative;
+  top: 4350px;
+}
+
+
+.button a {
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+#buttons3 a {
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+.button:hover {
+  border: 1px solid white;
+}
+
+#footer {
+  position: relative;
+  top: 4445px;
+  text-align: center;
+  float: center;
+  color: white;
+}
+
+.footer-link {
+  color: black;
+  text-decoration: none;
+  margin-left: 25px;
+  font-size: .8em;
+}
+
+#flag {
+  width: 20px;
+  margin-bottom: -5px;
+}
+
+
+
+
+
+
+
+
+
+
+#schoolpage {
+background: url('seedmissionbg.jpg') no-repeat center top;
+  background-size: contain;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-attachment: scroll;
+  font-family: silkscreen;
+}
+
+#schoolcontainer {
+	width: 1400px;
+  	height: 2860px;
+}
+
+#logo {
+  float: left;
+  position: relative;
+  top: 50px;
+  height: 3em;
+  width: 4em;
+}
+
+#logo a {
+	display: inline-block;
+    line-height: 2em;
+}
+
+#symbol {
+	float: right;
+}
+
+#nav-buttons {
+	margin-top: 0px;
+  margin-right: 25px;
+  font-size: 1em;
+  font-family: silkscreen;
+  text-align: right;
+  float: right top;
+  position: relative;
+  top: 100px;
+}
+
+#nav-buttons img {
+	position: relative;
+	top: 10px;
+}
+
+#nav-buttons .nav-button {
+	color: black;
+}
+
+.schoolnav {
+	color: black;
+  margin-left: 25px;
+}
+
+#quotetop {
+	position: relative;
+	top: 100px;
+	right: 0px;
+	size: 3em;
+	margin-left: 425px;
+	text-align: center;
+}
+
+#whyseedschool1 {
+	position: relative;
+	top: 220px;
+}
+
+#whyseedschool2 {
+	position: relative;
+	top: 230px;
+}
+
+#recruitment {
+	position: relative;
+	top: 650px;
+	text-align: center;
+}
+
+#schoolfooter {
+  position: relative;
+  top: 1360px;
+  text-align: center;
+  float: center;
+  color: white;
+}
+
+#form {
+	width:100%;
+	height:400px;
+}
+
+
+
+
+#learnpage {
+background: url('learnpagebg.jpg') no-repeat center top;
+background-size: contain;
+-webkit-background-size: contain;
+-moz-background-size: contain;
+-o-background-size: contain;
+background-attachment: scroll;
+font-family: silkscreen;
+}
+
+#learncontainer {
+	width: 1400px;
+	height: 11000px;
+}
+
+#energygif {
+	position: relative;
+	top: 300px;
+	float: right;
+	border: 1px solid #ddd;
+  	border-radius: 4px;
+  	padding: 5px;
+}
+
+#fields {
+	position: relative;
+	top: 300px;
+}
+
+#fields h1{
+	text-align: center;
+}
+
+#fields2 {
+	position: relative;
+	top: 325px;
+	text-align: right;
+}
+
+#fields3 {
+	position: relative;
+	top: 375px;
+}
+
+#fields4 {
+	position: relative;
+	top: 415px;
+	text-align: right;
+}
+
+#brainwaves {
+	position: relative;
+	top: 600px;
+}
+
+#brainwaves h1{
+	text-align: center;
+}
+
+#delta {
+	position: relative;
+	top: 40px;
+	margin-right: 600px;
+}
+
+#deltaimg {
+	position: relative;
+	margin-left: 700px;
+	top: -120px;
+}
+
+#theta {
+	position: relative;
+	top: -20px;
+	margin-left: 500px;
+}
+
+#thetaimg {
+	position: relative;
+	top: -170px;
+	margin-left: 50px;
+}
+
+#alpha {
+	position: relative;
+	top: -50px;
+	margin-right: 600px;
+}
+
+#alphaimg {
+	position: relative;
+	top: -170px;
+	margin-left: 750px;
+}
+
+#beta {
+	position: relative;
+	top: -20px;
+	margin-left: 500px;
+}
+
+#betaimg {
+	position: relative;
+	top: -140px;
+	margin-left: 100px;
+}
+
+#gamma {
+	position: relative;
+	top: 60px;
+	text-align: center;
+}
+
+#brainwaves .end{
+	position: relative;
+	top: 200px;
+}
+
+#incoherentcoherent .img{
+	position: relative;
+	top: 400px;
+	float: center;
+	size: 20em;
+	text-align: center;
+	left: 450px;
+}
+
+#incoherentcoherent .in {
+	scroll-behavior: smooth;
+	left: 200px;
+	position: relative;
+	top: 500px;
+	animation: scroll-left infinite;
+	display : flex;
+  flex-shrink: 0;
+
+}
+
+#incoherentcoherent .co {
+	position: relative;
+	scroll-behavior: smooth;
+	right: 200px;
+	float: right;
+	top: 450px;
+	animation: scroll-left infinite;
+	display : flex;
+  flex-shrink: 0;
+}
+
+
+#elevatedemotions {
+	position: relative;
+	top: 900px;
+}
+
+#elevatedemotions h1{
+	text-align: center;
+}
+
+#elevatedemotions img{
+	float: left;
+	position: relative;
+	top: -350px;
+}
+
+#elevatedemotions .bottom{
+	text-align: right;
+	position: relative;
+	top: 800px;
+}
+
+
+#rhythmicbreathing {
+	position: relative;
+	top: 400px;
+	float: left;
+}
+
+#rhythmicbreathing .tri {
+	position: relative;
+	left: 400px;
+}
+
+#rhythmicbreathing .breathingimg {
+	position: relative;
+	top: 0px;
+	height: 500px;
+	width: 400px;
+	right: 50px;
+}
+
+#energycenters1 {
+	background: url('chakrabody.png') no-repeat center bottom;
+	position: relative;
+	top: 900px;	
+}
+
+
+#energycenters2 {
+	position: relative;
+	top: 900px;
+}
+
+#visualization {
+	position: relative;
+	top: 1200px;
+}
+
+#recruitmentlearn {
+	position: relative;
+	top: 1500px;
+	text-align: center;
+}
+
+
+#learnfooter {
+  position: relative;
+  top: 1600px;
+  text-align: center;
+  float: center;
+  color: white;
+}
+
+
+
+
+
+
+
+#supportpage {
+background: url('supportpage.jpg') no-repeat center top;
+background-size: contain;
+-webkit-background-size: contain;
+-moz-background-size: contain;
+-o-background-size: contain;
+background-attachment: scroll;
+font-family: silkscreen;
+}
+
+#supportcontainer {
+	width: 1400px;
+	height: 1600px;
+}
+
+
+#support {
+	position: relative;
+	top: 200px;
+	float: center;
+	margin-left: 100px;
+}
+
+#shedlight {
+	position: relative;
+	top: 300px;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+
+#waterplant {
+	position: relative;
+	top: 350px;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+#maintainsoil {
+	position: relative;
+	top: 400px;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+#supportfooter {
+  position: relative;
+  top: 600px;
+  text-align: center;
+  float: center;
+}
+
+.copy-text button: active {
+	background: #809ce2;
+}
+
+.copy-text button: before {
+	content: "Copied";
+	position: absolute;
+	top:-45px;
+	right:0px;
+	background:#5c81dc;
+	padding: 8px 10px;
+	border-radius: 20px;
+	font-size: 15px;
+	display: none;
+}
+
+.copy-text button:after {
+	content:"";
+	position: absolute;
+	top:-20px;
+	right:25px;
+	width:10px
+	height: 10px;
+	background: #5c81dc;
+	transform: rotate(45deg);
+	display: none;
+}
+
+.copy-text.active button: before,
+.copy-text.active button: after {
+	display: block;
+}
+
