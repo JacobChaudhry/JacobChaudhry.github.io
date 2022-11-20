@@ -359,6 +359,11 @@ font-family: silkscreen;
 	position: relative;
 	top: 10px;
 }
+
+#learn-nav-buttons .nav-button {
+	color: black;
+}
+
 #energygif {
 	position: relative;
 	top: 300px;
