@@ -343,6 +343,22 @@ font-family: silkscreen;
 	height: 11000px;
 }
 
+
+#learn-nav-buttons {
+	margin-top: 0px;
+  margin-right: 25px;
+  font-size: 1em;
+  font-family: silkscreen;
+  text-align: right;
+  float: right top;
+  position: relative;
+  top: 50px;
+}
+
+#learn-nav-buttons img {
+	position: relative;
+	top: 10px;
+}
 #energygif {
 	position: relative;
 	top: 300px;
