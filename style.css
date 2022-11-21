@@ -1,7 +1,8 @@
 
 
+
 html {
-  background: url('seedwebbg.jpeg') no-repeat center top;
+  background: url('seedwebbg.jpeg') no-repeat center;
   background-size: cover;
   background-attachment: scroll;
   font-family: silkscreen;
@@ -9,7 +10,7 @@ html {
 
 #homecontainer {
   width: 1400px;
-  height: 9524px;
+  height: 9900px;
 }
 
 #homelogo img {
@@ -171,7 +172,7 @@ html {
 
 #mission {
 	position: relative;
-	top: 2750px;
+	top: 2900px;
 	text-align: left;
 	float: left;
 	color: white;
@@ -203,7 +204,7 @@ html {
 
 #footer {
   position: relative;
-  top: 4445px;
+  top: 4280px;
   text-align: center;
   float: center;
   color: white;
@@ -270,7 +271,7 @@ background: url('seedmissionbg.jpg') no-repeat center top;
   text-align: right;
   float: right top;
   position: relative;
-  top: 75px;
+  top: 100px;
 }
 
 #nav-buttons img {
@@ -343,7 +344,6 @@ font-family: silkscreen;
 	height: 11000px;
 }
 
-
 #learn-nav-buttons {
 	margin-top: 0px;
   margin-right: 25px;
@@ -352,7 +352,7 @@ font-family: silkscreen;
   text-align: right;
   float: right top;
   position: relative;
-  top: 75px;
+  top: 50px;
 }
 
 #learn-nav-buttons img {
@@ -362,6 +362,15 @@ font-family: silkscreen;
 
 #learn-nav-buttons .nav-button {
 	color: black;
+}
+
+#learnquotetop {
+	position: relative;
+	top: 110px;
+	right: 160px;
+	size: 3em;
+	margin-left: 475px;
+	text-align: center;
 }
 
 #energygif {
@@ -665,4 +674,3 @@ font-family: silkscreen;
 .copy-text.active button: after {
 	display: block;
 }
-
