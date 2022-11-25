@@ -1,12 +1,12 @@
 
 
-
 html {
   background: url('seedwebbg.jpeg') no-repeat center;
   background-size: cover;
   background-attachment: scroll;
   font-family: silkscreen;
 }
+
 
 #homecontainer {
   width: 1400px;
@@ -98,26 +98,26 @@ html {
 
 #whatisseed {
 	position: relative;
-	top: 200px;
+	top: 100px;
 	width: 70%;
 
 }
 
-.roadmapscroll {
-    width: 100% 800px;
-    height: 100% 800px;
+#roadmap {
+    width: 1400px;
+    height: 1400px;
     display: flex;
     align-items: center;
     flex-wrap: nowrap;
     overflow-x: auto;
     white-space: nowrap;
     position: relative;
-    top: 300px;
+    top: 50px;
 }
 
-.roadmap {
-	width: 150% 800px;
-    height: 150% 800px;
+#roadmap video {
+	width: 1400px;
+    height: 1000px;
     flex: 0 0 auto;
   	display: flex;
     align-items: center;
@@ -127,34 +127,32 @@ html {
 
 #careers {
 	position: relative;
-	top: 350px;
+	top: -75px;
 	text-align: left;
 }
 
-
-#discord {
+#careers #button2 {
 	position: relative;
-	top: 2600px;
-	color: violet;
-	float: left;
-	text-align: left;
-	margin-right: 400px;
+	left: 700px;
 }
 
 
 #seedprograms {
 	position: relative;
-	top: 800px;
+	top: 1000px;
 	color: black;
 	text-align: center;
 	float: center;
 }
 
 #button2 {
-	color: lightblue;
+	color: linear-gradient(to right, lightblue , blue);
 	background-color: transparent;
 	font-family: silkscreen;
 	size: 2em;
+	border-width: 2px;
+	border-color: black;
+	border-style: pixelated;
 }
 
 #button2 a {
@@ -166,13 +164,26 @@ html {
 }
 
 #button2 a:visited {
-	color: lightblue;
+	color: linear-gradient(to right, lightblue , blue);
 	text-decoration: none;
+}
+
+#discord {
+	position: relative;
+	top: 1490px;
+	color: #7B68EE;
+	float: left;
+	text-align: left;
+	margin-right: 450px;
+}
+
+#discord h2 {
+	margin-right: 150px;
 }
 
 #mission {
 	position: relative;
-	top: 2900px;
+	top: 2100px;
 	text-align: left;
 	float: left;
 	color: white;
@@ -204,7 +215,7 @@ html {
 
 #footer {
   position: relative;
-  top: 4280px;
+  top: 3530px;
   text-align: center;
   float: center;
   color: white;
