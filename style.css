@@ -10,7 +10,7 @@ html {
 
 #homecontainer {
   height: 9900px;
-  max-width: 1400px;
+  width: 1400px;
 }
 
 @media only screen and (max-width: 768px) {
