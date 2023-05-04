@@ -9,8 +9,10 @@ html {
 
 
 #homecontainer {
-  width: 1400px;
-  height: 9900px;
+   width: 90%;
+  height: 100vh;
+  max-width: 1400px;
+  margin: 0 auto;
 }
 
 #homelogo img {
